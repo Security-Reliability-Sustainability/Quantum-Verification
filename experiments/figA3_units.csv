@@ -1,0 +1,4 @@
+Param,dimensionless,MHz_at_20ns,reported_hardware_range,refs
+J (static coupling),0.5,3.9788735772973833,static/ZZ & exchange crosstalk ~0.01-5 MHz,"[2] Ketterer'23, [3] Zhao'22, [14] Balewski'25"
+A (neighbor/readout drive),0.5,3.9788735772973833,microwave drive crosstalk amplitudes ~0.1-several MHz,"[15] Wang'22, [16] Wei'22"
+delta (detuning),10.0,79.57747154594767,qubit-qubit detunings ~50-300 MHz,"[3] Zhao'22, [16] Wei'22"

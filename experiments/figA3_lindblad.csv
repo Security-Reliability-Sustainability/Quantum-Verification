@@ -1,0 +1,2 @@
+D_unitary,verdict_unitary,D_with_T1T2,verdict_T1T2,gamma1_per_gate,T1_us,T2_us,T_gate_ns
+0.33771019355961673,HARD FAIL,0.3378201116413764,HARD FAIL,0.0002,100.0,100.0,20.0
