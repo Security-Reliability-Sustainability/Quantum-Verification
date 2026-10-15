@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "QVSh: offline cross-layer verification of concurrent crosstalk in shared quantum processors"
+abstract: >-
+  Pulse-level simulation, single-qubit process reconstruction and workload
+  replay for auditing how concurrent crosstalk in a shared quantum processor
+  degrades scheduler-visible workload reliability. Reports process infidelity,
+  a coherent and an incoherent deviation metric, a three-way channel verdict,
+  and expected, worst-case and spread output-state fidelities.
+type: software
+version: "1.0.0"
+date-released: "2026-10-15"
+license: MIT
+repository-code: "https://github.com/syedshubha/QVSh"
+authors:
+  - family-names: Shubha
+    given-names: Syed Emad Uddin
+  - family-names: Farheen
+    given-names: Tasnuva
+keywords:
+  - quantum computing
+  - crosstalk
+  - quantum process tomography
+  - classical shadows
+  - multi-tenancy
+  - hardware security
